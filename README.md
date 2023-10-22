@@ -1,8 +1,13 @@
 # BMI Calculator App
 
-BMI Calculator is a Flutter mobile app that helps you calculate your body mass index (BMI) and provides information about your weight category.
+BMI Calculator is my second project using Flutter for mobile app development. This project has provided me with valuable learning opportunities. Some of the key lessons I've learned include:
 
-![BMI Calculator App](./lib/assets/Result.png)
+- Understanding the difference between stateless and stateful widgets.
+- Implementing Material Design principles in Flutter for a visually appealing user interface.
+- Managing exports and imports of files to organize the project structure effectively.
+- Extracting widgets to create reusable components and improve code organization.
+- Navigating between different pages in the app using Flutter's navigation system.
+- Utilizing FontAwesome icons in Flutter to enhance the app's visual elements.
 
 ## Features
 
@@ -28,3 +33,7 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 ## License
 
 This project is licensed under the MIT License.
+
+<img src='./lib/assets/Result.png'/>
+
+
