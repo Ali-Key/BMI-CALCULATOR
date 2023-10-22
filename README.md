@@ -2,7 +2,7 @@
 
 BMI Calculator is a Flutter mobile app that helps you calculate your body mass index (BMI) and provides information about your weight category.
 
-<img src='./lib/assets/Result.png'/>
+![BMI Calculator App](./lib/assets/Result.png)
 
 ## Features
 
